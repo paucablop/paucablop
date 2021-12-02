@@ -8,6 +8,7 @@
 
 🌱 I am working to improve my devops and automation skills 🤹‍♀️ 
 
+[ResearchGate Profile](https://www.researchgate.net/profile/Pau-Cabaneros-2)
 
 ![paucablop's github stats](https://github-readme-stats.vercel.app/api?username=paucablop&show_icons=true&theme=radical)
 
