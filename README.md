@@ -2,7 +2,7 @@
 
 👀 I love modelling biological 🧬 and chemical ⚛ systems to better understand how they can be used to help society 🌍 
 
-🔭 I am currently working at [@Specshell](https://github.com/Specshell) as a bioprocess modelling specialist and data scientist 👨‍🔬
+🔭 I am currently working at as a process analytical technology scientist and data scientist in the biotech industry 👨‍🔬
 
 ♥ I enjoy open source projects and sharing knowledge through code 📚
 
